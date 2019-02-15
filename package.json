@@ -1,0 +1,14 @@
+{
+  "name": "Git-Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/faran4evolent/Git-Bot.git",
+  "author": "Faran Shaikh <fshaikh@evolenthealth.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "moment": "^2.24.0",
+    "random": "^2.1.1",
+    "simple-git": "^1.126.0"
+  }
+}
